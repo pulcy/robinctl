@@ -1,0 +1,6 @@
+{
+	"go-vendor-dir": "deps",
+	"registry": "pulcy",
+	"image": "robinctl",
+	"tag-latest": true
+}
