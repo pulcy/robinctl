@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pulcy/robinctl.svg?branch=master)](https://travis-ci.org/pulcy/robinctl)
+
 # Robinctl 
 
 This utility is used to control the [Robin](https://github.com/pulcy/robin) load-balancer at runtime.
