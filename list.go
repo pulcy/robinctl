@@ -21,7 +21,7 @@ import (
 	"strings"
 
 	api "github.com/pulcy/robin-api"
-	"github.com/pulcy/robinctl/deps/github.com/ryanuber/columnize"
+	"github.com/ryanuber/columnize"
 	"github.com/spf13/cobra"
 )
 

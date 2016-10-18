@@ -1,5 +1,5 @@
 {
-	"go-vendor-dir": "deps",
+	"go-vendor-dir": "vendor",
 	"registry": "pulcy",
 	"image": "robinctl",
 	"tag-latest": true
