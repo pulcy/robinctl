@@ -1,0 +1,13 @@
+sudo: required
+
+services:
+  - docker
+  
+language: go
+
+go:
+  - 1.7
+  - tip
+
+install:
+  - go get github.com/pulcy/pulsar
